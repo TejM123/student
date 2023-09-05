@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Snake Game
 description: Working snake game
-type: hacks
+type: tangibles
 courses: { compsci: { week: 2}}
 categories: [C1.4]
 ---
