@@ -12,19 +12,7 @@ categories: [C1.4]
 
 &nbsp;         
 &nbsp;         
-&nbsp;         
-&nbsp;         
-&nbsp; 
-&nbsp;         
-&nbsp;
-&nbsp;         
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;  
-&nbsp;  
+
 
 
 <style>
