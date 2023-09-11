@@ -1,6 +1,6 @@
 ---
 toc: false
-comments: false
+comments: true
 layout: post
 title: Snake Game
 description: Working snake game
