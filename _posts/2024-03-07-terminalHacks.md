@@ -1,0 +1,39 @@
+---
+toc: True
+comments: True
+layout: post
+title: Terminal Hacks
+description: CSP
+type: tangibles
+courses: {'compsci': {'week': 25}}
+---
+
+| Command      | Use                                                                                                                                                                                                                                                   |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| sudo         | Provides an efficient way to temporarily grant users or user groups privileged access to system resources so that they can run commands that they cannot run under their regular accounts                                                               |
+| pip          | Package manager for Python that is used to install, upgrade, or remove Python packages                                                                                                                                                                |
+| git          | A version control system used for tracking changes in source code during software development                                                                                                                                                         |
+| cd           | Change directory                                                                                                                                                                                                                                      |
+| ln           | Stands for "link". It is used to create links between files. There are two types of links that ln can create: Hard Links, which create a new file entry (directory entry) for the same inode as the original file; and Symbolic Links (symlinks), which point to another file or directory by its pathname |
+| ls           | Used to list files and directories in the current directory or specified directories. It also gives detailed information about files such as permissions, ownership, size, and modification date                                                        |
+| mkdir        | Creates a new directory                                                                                                                                                                                                                               |
+| rm           | Removes (deletes) files or directories                                                                                                                                                                                                                |
+| cp           | Copies files or directories from one location to another                                                                                                                                                                                              |
+| mv           | Moves files or directories from one location to another                                                                                                                                                                                               |
+| touch        | Creates an empty file with the specified name                                                                                                                                                                                                         |
+| grep         | Searches for patterns in text files                                                                                                                                                                                                                   |
+| cat          | Concatenates files and prints the output                                                                                                                                                                                                              |
+| chmod        | Changes the permissions of a file or directory                                                                                                                                                                                                        |
+| chown        | Changes the owner and/or group of a file or directory                                                                                                                                                                                                 |
+| df           | Displays information about the disk space usage                                                                                                                                                                                                       |
+| du           | Displays disk usage statistics for files and directories                                                                                                                                                                                              |
+| find         | Searches for files and directories in a directory hierarchy                                                                                                                                                                                           |
+| tar          | Archives files and directories into a single file                                                                                                                                                                                                     |
+| unzip        | Extracts files from a ZIP archive                                                                                                                                                                                                                     |
+| top          | Displays information about processes and resource usage                                                                                                                                                                                                |
+| ps           | Displays information about currently running processes                                                                                                                                                                                                |
+| kill         | Terminates processes by sending signals                                                                                                                                                                                                               |
+| ssh          | Connects to a remote server securely using the SSH protocol                                                                                                                                                                                           |
+| scp          | Securely copies files between hosts on a network                                                                                                                                                                                                      |
+| wget         | Downloads files from the internet                                                                                                                                                                                                                     |
+| curl         | Transfers data from or to a server                                                                                                                                                                                                                    |
