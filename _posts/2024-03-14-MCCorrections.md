@@ -10,6 +10,7 @@ type: plans
 ---
 # Reflection
 I scored a 65/70 in the collegeboard quiz which equates to a **1.0/1.0**
+<a href="https://ibb.co/RcgVVsw"><img src="https://i.ibb.co/x62RRBT/Screenshot-2024-03-15-at-9-57-52-AM.png" alt="Screenshot-2024-03-15-at-9-57-52-AM" border="0"></a>
 
 # Learning Journey
 In preparation for the Collegeboard Practice MC, I dedicated my study efforts to the team teaching topics covered throughout this trimester. These topics spanned a range of subjects, including The Internet, Routing, Computing, Beneficial and Harmful Effects, Digital Divide, Computing Bias, Undecided Problems, Crowdsourcing, Legal and Ethical Concerns, and Safe Computing.
