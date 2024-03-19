@@ -47,4 +47,4 @@ Q55:
 - correct: B and C
 
 # Final Reflection
-Overall, I have been getting consistent good scores when taking Collegeboard MCs. I started with a 62/67, and I now got a 65/70. I will continue to go over the old team teaches as well as taking what I am doing this tri to maximize my performance on the AP exam.
+Overall, I have been getting consistent good scores when taking Collegeboard MCs. I started with a 62/67, and I now got a 65/70. I will continue to go over the old team teaches as well as taking what I am doing this tri to maximize my performance on the AP exam. The thing I have noticed is that I need to improve on reading code snippets. This is especially when the question gives a scenario and akss me to choose the correct one. I know collegeboard has awesome videos and problems to help me build my knowledge on this topic, and help me succeed in the AP exam.
