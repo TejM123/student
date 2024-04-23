@@ -75,3 +75,13 @@ In JavaScript code, show and describe code that handles success. Describe how co
 In JavaScript code, show and describe code that handles failure. Describe how the code shows failure to the user in the Chrome Browser screen. (same code)
 
 <a href="https://ibb.co/M5QfTsr"><img src="https://i.ibb.co/Z17SsV5/Screenshot-2024-04-17-at-10-35-03-PM.png" alt="Screenshot-2024-04-17-at-10-35-03-PM" border="0"></a>
+
+## Decision Tree Writeup:
+
+Linear regression is like looking at how two things, let's call them x and y, are connected. Imagine we have a big set of data in a table, organized with x and y values. The goal of linear regression is to find a line that fits this data best, showing any relationship between x and y. We usually take 80% of this data to train the line, and the remaining 20% to test how well it works. This is to make sure our line is as accurate as possible. After training, we use the test data to predict y values based on our line. This whole process is called supervised learning because the machine learns from labeled data, like how students learn with the help of teachers.
+
+<a href="https://ibb.co/dfxJcV9"><img src="https://i.ibb.co/p15rPMD/decisiontree.png" alt="decisiontree" border="0"></a>
+
+Decision Trees are like flowcharts used mainly for sorting things into categories or making predictions. It's often used for tasks like figuring out if something is a "Yes" or "No" (classification) or predicting a number (regression). We start at the beginning of the tree, called the root node, which has all the data. Then, we split the data based on certain rules, creating new nodes as we go. This splitting continues until we reach the end of the tree, where we have the final decisions, called leaf nodes.
+
+Let's say we're using a Decision Tree to decide if we should go outside based on the weather. We start with the "Outlook" at the root node, which means we're looking at the weather first. If it's "Sunny," we might look at "Humidity." If the humidity is high, the decision is not to go outside, but if it's low, it's a yes. If it's "Overcast," we don't even need to think about it - it's a "Yes." For "Rain," we might consider "Wind." If the wind is strong, it's a "No," but if it's weak, it's a "Yes." So, the Decision Tree gives us these clear paths to decide whether we should go outside or not, based on different weather conditions.
