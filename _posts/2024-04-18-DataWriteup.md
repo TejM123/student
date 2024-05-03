@@ -10,11 +10,14 @@ type: tangibles
 
 From VSCode using SQLite3 Editor, show your unique collection/table in database, display rows and columns in the table of the SQLite database.
 
+## Collections
 <a href="https://ibb.co/b76p8KV"><img src="https://i.ibb.co/fQXmPxW/Screenshot-2024-04-17-at-3-31-23-PM.png" alt="Screenshot-2024-04-17-at-3-31-23-PM" border="0"></a>
 
 From VSCode model, show your unique code that was created to initialize table and create test data.
 
 <a href="https://ibb.co/yyRkTXP"><img src="https://i.ibb.co/1qnXVLQ/Screenshot-2024-04-17-at-9-55-03-PM.png" alt="Screenshot-2024-04-17-at-9-55-03-PM" border="0"></a>
+
+## Lists and Dictionaries
 
 In VSCode using Debugger, show a list as extracted from database as Python objects.
 
@@ -23,6 +26,8 @@ In VSCode using Debugger, show a list as extracted from database as Python objec
 In VSCode use Debugger and list, show two distinct example examples of dictionaries, show Keys/Values using debugger.
 
 <a href="https://ibb.co/HDy1Tbd"><img src="https://i.ibb.co/zhgjVBJ/Screenshot-2024-04-17-at-10-00-10-PM.png" alt="Screenshot-2024-04-17-at-10-00-10-PM" border="0"></a>
+
+## APIs and JSON
 
 In VSCode, show Python API code definition for request and response using GET, POST, UPDATE methods. Discuss algorithmic condition used to direct request to appropriate Python method based on request method.
 
@@ -47,6 +52,8 @@ In Postman, show the JSON response for error for 400 when missing body on a POST
 In Postman, show the JSON response for error for 404 when providing an unknown user ID to a UPDATE request.
 
 <a href="https://ibb.co/1K7gSyH"><img src="https://i.ibb.co/TRYfCjz/Screenshot-2024-04-17-at-10-18-55-PM.png" alt="Screenshot-2024-04-17-at-10-18-55-PM" border="0"></a>
+
+## Frontend
 
 In Chrome inspect, show response of JSON objects from fetch of GET, POST, and UPDATE methods.
 
